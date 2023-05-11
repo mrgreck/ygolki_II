@@ -1,0 +1,10 @@
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\bin\Release\Ygoloc.exe.config
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\bin\Release\Ygoloc.exe
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\bin\Release\Ygoloc.pdb
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.csproj.AssemblyReference.cache
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.Form1.resources
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.Properties.Resources.resources
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.csproj.GenerateResource.cache
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.csproj.CoreCompileInputs.cache
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.exe
+C:\Users\nikit\YandexDisk\source\repos\Ygoloc\Ygoloc\obj\Release\Ygoloc.pdb
